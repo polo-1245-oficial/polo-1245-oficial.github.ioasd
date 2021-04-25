@@ -238,7 +238,7 @@ text-shadow: 0px 0px 3px #111;
     outline: none;
     color: #fff;
     background: #111;
-    cursor: imagen_2021-04-25_160139.png;
+    cursor: url('imagen_2021-04-25_160139.png'), auto;
     position: absolute;
     z-index: 1;
     border-radius: 25px;
